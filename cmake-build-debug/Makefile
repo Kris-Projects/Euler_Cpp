@@ -177,6 +177,33 @@ Problem_2.cpp.s:
 	$(MAKE) -f CMakeFiles/Euler.dir/build.make CMakeFiles/Euler.dir/Problem_2.cpp.s
 .PHONY : Problem_2.cpp.s
 
+Problem_3.o: Problem_3.cpp.o
+
+.PHONY : Problem_3.o
+
+# target to build an object file
+Problem_3.cpp.o:
+	$(MAKE) -f CMakeFiles/Euler.dir/build.make CMakeFiles/Euler.dir/Problem_3.cpp.o
+.PHONY : Problem_3.cpp.o
+
+Problem_3.i: Problem_3.cpp.i
+
+.PHONY : Problem_3.i
+
+# target to preprocess a source file
+Problem_3.cpp.i:
+	$(MAKE) -f CMakeFiles/Euler.dir/build.make CMakeFiles/Euler.dir/Problem_3.cpp.i
+.PHONY : Problem_3.cpp.i
+
+Problem_3.s: Problem_3.cpp.s
+
+.PHONY : Problem_3.s
+
+# target to generate assembly for a file
+Problem_3.cpp.s:
+	$(MAKE) -f CMakeFiles/Euler.dir/build.make CMakeFiles/Euler.dir/Problem_3.cpp.s
+.PHONY : Problem_3.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +219,9 @@ help:
 	@echo "... Problem_2.o"
 	@echo "... Problem_2.i"
 	@echo "... Problem_2.s"
+	@echo "... Problem_3.o"
+	@echo "... Problem_3.i"
+	@echo "... Problem_3.s"
 .PHONY : help
 
 

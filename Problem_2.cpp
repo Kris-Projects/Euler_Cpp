@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main(){
+int main2(){
     long int sum = 0;
     int fib1 = 1;
     int fib2 = 2;
