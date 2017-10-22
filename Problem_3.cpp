@@ -18,7 +18,7 @@ int GetMinFactor(long int number){
     return minfactor;
 }
 
-int main(){
+int main3(){
     long int num = 600851475143;
     long int maxfactor = 0;
     long int factor = GetMinFactor(num);

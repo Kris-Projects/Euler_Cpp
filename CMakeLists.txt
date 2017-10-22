@@ -3,5 +3,5 @@ project(Euler)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES Problem_1.cpp Problem_2.cpp Problem_3.cpp)
+set(SOURCE_FILES Problem_1.cpp Problem_2.cpp Problem_3.cpp Problem_4.cpp)
 add_executable(Euler ${SOURCE_FILES})

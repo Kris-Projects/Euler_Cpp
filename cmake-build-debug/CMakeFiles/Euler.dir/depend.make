@@ -7,3 +7,5 @@ CMakeFiles/Euler.dir/Problem_2.cpp.o: ../Problem_2.cpp
 
 CMakeFiles/Euler.dir/Problem_3.cpp.o: ../Problem_3.cpp
 
+CMakeFiles/Euler.dir/Problem_4.cpp.o: ../Problem_4.cpp
+
