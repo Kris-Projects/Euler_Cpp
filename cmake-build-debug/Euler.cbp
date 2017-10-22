@@ -85,6 +85,9 @@
 		<Unit filename="/Users/krisyang/CLionProjects/Euler/Problem_1.cpp">
 			<Option target="Euler"/>
 		</Unit>
+		<Unit filename="/Users/krisyang/CLionProjects/Euler/Problem_2.cpp">
+			<Option target="Euler"/>
+		</Unit>
 		<Unit filename="/Users/krisyang/CLionProjects/Euler/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
